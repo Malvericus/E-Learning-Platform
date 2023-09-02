@@ -829,11 +829,9 @@
 }
 .landingPrototypeItem {
   position: absolute;
-  top: 977px;
-  left: 642px;
   background-color: var(--color-steelblue);
-  width: 116px;
-  height: 8px;
+  width: auto;
+  height: auto;
 }
 .weDesignTools11 {
   position: absolute;
@@ -1526,11 +1524,12 @@
 .landingPrototype1 {
   position: relative;
   background-color: #efe7df;
-  width: 100%;
+  width: auto;
   height: 7572px;
   overflow: hidden;
-  text-align: left;
+  text-align: center;
   font-size: var(--font-size-base);
   color: var(--color-white);
   font-family: var(--font-montserrat);
 }
+
