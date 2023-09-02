@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Maven+Pro:wght@600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-maven-pro: "Maven Pro";
+  --font-montserrat: Montserrat;
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-xs: 12px;
+  --font-size-lg: 18px;
+  --font-size-17xl: 36px;
+  --font-size-9xl: 28px;
+  --font-size-31xl: 50px;
+  --font-size-3xl: 22px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-steelblue: #2f5288;
+  --yellow: #ffc43b;
+  --red: #ff3b53;
+  --blue: #3cc5ff;
+  --primary: #3a5aff;
+  --color-gray: #2f281e;
+  --pmsblack7: #333;
+  --color-dimgray: #544837;
+  --pms663: #f2f2f2;
+  --pmsgrey: #979797;
+  --color-black: #000;
+  --pms7717: #028282;
+
+  /* border radiuses */
+  --br-9xs: 4px;
+  --br-lgi: 19px;
+  --br-13xl: 32px;
+
+  /* Effects */
+  --button: 0px -4px 1px rgba(0, 0, 0, 0.6) inset;
+}
